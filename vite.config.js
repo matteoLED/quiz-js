@@ -1,3 +1,3 @@
 export default {
-    base: "/quiz-micode-clone/"
+    base: "/quiz-js/"
 }
